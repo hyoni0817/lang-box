@@ -33,3 +33,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: bd7fa48538d3150725137a42e1bce644
           USERNAME: ${{ github.actor }}
+          DAYS: 30
